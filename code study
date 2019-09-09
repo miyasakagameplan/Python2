@@ -61,7 +61,7 @@ print(not True) #False
 print("hello " + "world")
 print("hello " * 3)
 
-＃5回まで
+
 
 
 
